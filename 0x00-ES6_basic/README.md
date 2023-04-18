@@ -1,1 +1,1 @@
-alx project
+# ES6 project
