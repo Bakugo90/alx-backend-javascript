@@ -27,6 +27,13 @@ This Repository store all the solution of the Project about javascript backend S
 - Install ESLint using: npm install --save-dev eslint
 
 ### Projects
-Here is the complete list of projects in this repository, each project has its description in its respective folder.
 
-* [0x00-ES6_basic](https://github.com/bakugo90/alx-backend-javascript/tree/main/0x00-ES6_basic)
+Each project has its description in its respective folder:
+
+- [0x00-ES6_basic](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x00-ES6_basic)
+- [0x01-ES6_promise](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x01-ES6_promise)
+- [0x02-ES6_classes](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x02-ES6_classes)
+- [0x03-ES6_data_manipulation](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation)
+- [0x04-TypeScript](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x04-TypeScript)
+- [0x05-Node_JS_basic](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x05-Node_JS_basic)
+- [0x06-unittests_in_js](https://github.com/Bakugo90/alx-backend-javascript/tree/main/0x06-unittests_in_js)
