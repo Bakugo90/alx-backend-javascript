@@ -1,6 +1,6 @@
 # 0x05-Node_JS_basic
 
-This folder contains beginner-friendly projects and scripts to help you learn the fundamentals of Node.js. The exercises cover file operations, building HTTP servers, using Express.js, and basic asynchronous programming. Configuration files are included for development best practices.
+This folder contains beginner-friendly projects and scripts to help I use to learn the fundamentals of Node.js. The exercises cover file operations, building HTTP servers, using Express.js, and basic asynchronous programming. Configuration files are included for development best practices.
 
 ---
 
